@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mode_array">
+        <item>Smile</item>
+        <item>Eye</item>
+        <item>Frown</item>
+        <item>Wave</item>
+        <item>Thumbs</item>
+        <item>Smart Cam</item>
+        <!-- Add more modes if needed -->
+    </string-array>
+</resources>
